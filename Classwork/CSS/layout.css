@@ -1,0 +1,141 @@
+body{
+    margin: 0;
+}
+
+
+.darkBlue{
+    background-color: rgb(10, 10, 66);
+    height: 600px;
+    width: 100%;
+    padding-left: 50px;
+    
+}
+
+.logo{
+    color: white;
+    float: left;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.link{
+   padding-top: 10px;
+   margin-left: 500px;
+   float: left;
+}
+
+.sign{
+    color: white;
+    background-color: rgb(40, 144, 224);
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+}
+
+.link a{
+    text-decoration: none;
+    color: white;
+    margin: 20px;
+}
+
+.awesome{
+    color: white;
+    width: 500px;
+    float: left;
+}
+
+.content{
+    padding-top: 100px;
+    width:  100%;
+    clear: both;
+}
+
+.image{
+    width: 500px;
+    background-color: white;
+    height: 300px;
+    float: left;
+    margin-left: 100px;
+}
+.div1{
+    height: 450px;
+    width: 100%;
+    background-color: whitesmoke;
+    color: blue;
+    float: left;
+    padding-top: 20px;
+}
+.div1 h2{
+    padding-left: 530px;
+    padding-bottom:20px ;
+}
+.giv1 img{
+    width: 150px;
+    height: 150px;
+    border: 4px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+    float:left ;
+    margin-left: 100px;
+}
+.giv1 footer{
+    float:left ;
+    margin-right: 50px;
+    margin-left: -155px;
+    margin-top: 200px;
+    width: 130px;
+    text-align: justify;
+    font-size: 16px;
+
+}
+.div2{
+    height: 200px;
+    width: 100%;
+    background-color: silver;
+    color:black;
+    float: left;
+    padding-top: 60px; 
+}
+.div2 p{
+    width: 400px;
+    font-size: 22px;
+    padding-left: 500px;
+}
+.div2 footer{
+    padding-left: 700px;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+}
+.div3{
+    width: 100%;
+    height: 500px;
+    clear: both;
+    padding-left: 150px;
+    padding-top: 80px;
+}.footer{
+    width: 1000px;
+    background-color: blue;
+    height: 80px;
+    color: whitesmoke;
+    margin-left: 50px;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+.footer header{
+    width: 700px;
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: 600;
+}
+.button{
+    color: white;
+    background-color: blue;
+    border: 3px solid white;
+    border-radius: 5px;
+    float: right;
+    margin-right: 50px;
+    width: 100px;
+    height: 30px;
+}

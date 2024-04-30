@@ -1,0 +1,26 @@
+body{
+  background-color: aqua;
+  background-image: url(../);
+  margin: 100px;
+}
+form{
+    background-color: whitesmoke;
+    width: 500px;
+    height: 350px;
+    padding: 50px;
+    padding-left: 100px;
+    margin-left: 200px;
+}
+input{
+    width: 350px;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input[type="submit"]{
+    width: 363px;
+    background-color: aqua;
+    color: whitesmoke;
+    border: 0px;
+    height: 40px;
+}

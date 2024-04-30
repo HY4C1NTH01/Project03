@@ -1,0 +1,11 @@
+body{
+ background-color:black
+}
+.p{
+  color:beige; font-size:30px
+   
+}
+.p2{
+  width:500px;color:wheat; border:3px solid rgba(220, 20, 147, 0.735);
+  
+}

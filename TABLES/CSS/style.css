@@ -1,0 +1,19 @@
+table ,th ,td ,tr{
+    border-bottom: 3px solid red;
+    border-collapse: collapse;
+    padding: 10px;
+}
+table{
+    border: 3px solid red;
+    width: 500px;
+    height: 100px;
+}
+th{
+    background-color: silver;
+}
+td{
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: blueviolet;
+}
